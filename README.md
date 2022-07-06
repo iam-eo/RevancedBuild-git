@@ -1,7 +1,7 @@
 # RevancedBuild-git
 Build my own revanced youtube .
 
-Download Files:
+# Download Files:
 
 revanced-cli
 https://github.com/revanced/revanced-cli/releases
@@ -15,5 +15,5 @@ https://github.com/revanced/revanced-integrations/releases
 Youtube
 https://www.apkmirror.com/apk/google-inc/youtube/
 
-command
+# Command
 $ ./revanced.sh
