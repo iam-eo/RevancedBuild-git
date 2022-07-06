@@ -16,4 +16,4 @@ Youtube
 https://www.apkmirror.com/apk/google-inc/youtube/
 
 # Command
-*./revanced.sh
+./revanced.sh
