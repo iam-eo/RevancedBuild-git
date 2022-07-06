@@ -15,5 +15,5 @@ https://github.com/revanced/revanced-integrations/releases
 Youtube
 https://www.apkmirror.com/apk/google-inc/youtube/
 
-command:
-./revanced.sh
+command
+$ ./revanced.sh
