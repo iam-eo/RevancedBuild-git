@@ -15,5 +15,7 @@ https://github.com/revanced/revanced-integrations/releases
 Youtube
 https://www.apkmirror.com/apk/google-inc/youtube/
 
-# Command
+# Instruction
+
+Download all files needed and modify filenames inside revanced.sh 
 ./revanced.sh
