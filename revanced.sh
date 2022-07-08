@@ -1,1 +1,1 @@
-java -jar revanced-cli-2.3.2-all.jar -a YouTube17.25.34.apk -b revanced-patches-2.9.4.jar -m app-release-unsigned-0.21.4.apk -o new-build.apk -e background-play -e exclusive-audio-playback -e codecs-unlock -e upgrade-button-remover -e tasteBuilder-remover -c
+java -jar revanced-cli-2.3.2-all.jar -a YouTube17.25.35.apk -b revanced-patches-2.10.1.jar -m app-release-unsigned-0.21.8.apk -o new-build.apk -e background-play -e exclusive-audio-playback -e codecs-unlock -e upgrade-button-remover -e tasteBuilder-remover -c
